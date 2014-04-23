@@ -1,3 +1,7 @@
+#Ruby on Rails tutorial: first application
+#from the book by Michael Hartl
+#WOOT!
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
